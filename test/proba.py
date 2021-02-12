@@ -9,8 +9,19 @@ class UzbekWordNetTest(unittest.TestCase):
     uzbek: WordNet
 
     def setUp(self) -> None:
-        self.uzbek = WordNet("../uzbek_wordnet_new.xml")
+        self.uzbek = WordNet("../uzbek_adjective.xml")
         # self.uzbek = WordNet()
+
+    def test_wordsList(self):
+        cnt = 0
+        # for elem in self.uzbek.literalList():
+        #     cnt += 1
+        #     print(cnt, elem)
+        with open('../uzbek_adjective.xml', 'r') as f:
+            for line in f.readlines():
+                ind = line.find('<SENSE>')
+                with open('adj_words.txt', 'a') as w:
+                    w.write(line[48:ind] + '\n')
 
     # def test_SynSetList(self):
     #     literalCount = 0
