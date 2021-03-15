@@ -1,7 +1,7 @@
-aba; shol, namat
+aba
 asalak
-abajurlu; abajurli
-abajursuz; abajursiz
+abajurlu
+abajursuz
 abalı
 abandone
 abani
@@ -10,22 +10,22 @@ abaşo
 Abazaca
 abazan
 abazan
-abdestli; tahoratli
-abdestli; tahoratli
-abdestlik; tahoratlik
-abdestsiz; tahoratsiz
-abdestsiz; tahoratsiz
-abes; mantiqsiz, keraksiz
-abes; mantiqsiz, keraksiz
-ablak; dumaloq yuzli
+abdestli
+abdestli
+abdestlik
+abdestsiz
+abdestsiz
+abes
+abes
+ablak
 ablakça
-abone; obuna
-abonelik; obunalik
-abraş; chipor
-abraş; chipor
-abraş; chipor
-abraş; chipor
-abraş; chipor
+abone
+abonelik
+abraş
+abraş
+abraş
+abraş
+abraş
 abstre
 abullabut
 abullabut
@@ -33,50 +33,50 @@ abur cubur
 asık suratlı
 abus
 abus
-acar; jasur, kuchli
-acar; jasur, kuchli
+acar
+acar
 çabuk
-Acem; eronlik
-Acemce; forscha
-acemi; begona, tajribasiz
-acemi; begona, tajribasiz
+Acem
+Acemce
+acemi
+acemi
 acemi çaylak
-acı; achchiq
-acı; achchiq
+acı
+acı
 üzücü
 acıca
-acıklı; fojeali, alamzada, g'amgin, hafa
-acıklı; fojeali, alamzada, g'amgin, hafa
-acılı; fojeali, alamzada, g'amgin, hafa
+acıklı
+acıklı
 acılı
-acımasız; shafqatsiz
+acılı
+acımasız
 dokunaklı
 acımsı
 acısız
 acı tatlı
-âciz; ojiz, notavon
-âciz; ojiz, notavon
+âciz
+âciz
 tez canlı
-acul; shoshqaloq
-aç; och
-aç; och
-açgözlü; ochko'z
-aç; och
+acul
+aç
+aç
+açgözlü
+aç
 açıcı
-açık; ochiq
-açık; ochiq
-açık; ochiq
-açık; ochiq
-açık; ochiq
-açık; ochiq
-açık; ochiq
-açık; ochiq
-açık; ochiq
-açık fikirli; ochiq fikrli
-açıkgöz; pishiq, quv
+açık
+açık
+açık
+açık
+açık
+açık
+açık
+açık
+açık
+açık fikirli
+açıkgöz
 açık gri
 açık kahverengi
-açık yürekli; dili ochiq, samimiy
+açık yürekli
 açık kestane
 açık kırmızı
 açıklayıcı
