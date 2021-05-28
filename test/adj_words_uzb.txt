@@ -1,60 +1,60 @@
-aba
+kigiz
 parazit
-abajur bilan
+abajurli
 abajursiz
-otalar
-tark etish
-abani
-mahalliy
-abasho
-Abaza
-tug'yonga ketgan
-tug'yonga ketgan
-tahorat bilan
-tahorat bilan
-tahorat
+kigizli
+//tark etish
+//abani
+//mahalliy
+//abasho
+//Abaza
+//tug'yonga ketgan
+//tug'yonga ketgan
+tahoratli
+tahoratli
+tahoratlik
 tahoratsiz
 tahoratsiz
 bema'ni
-bema'ni
+keraksiz
 tombul
-yo'q qilish
-abonent
-obuna
-abras
-abras
-abras
-abras
-abras
-mavhum
-bekor qilish
-bekor qilish
-Nosog'lom taom
-dour
-suiiste'mol qilish
-suiiste'mol qilish
-ochiladi
-ochiladi
-tez
-Fors tili
-Tajribasiz
-Ajam
-Ajam
-yosh
-og'riq
-og'riq
+//yo'q qilish
+//abonent
+obunalik
+chipor
+chipor
+chipor
+chipor
+chipor
+//mavhum
+//bekor qilish
+//bekor qilish
+//Nosog'lom taom
+//dour
+//suiiste'mol qilish
+//suiiste'mol qilish
+jasur
+kuchli
+//tez
+eronli
+forscha
+begona
+tajribasiz
+//yosh
+achchiq
+achchiq
 qayg'uli
-achchiq
+//achchiq
 achinarli
-achinarli
-achchiq
-achchiq
+fojeali
+//achchiq
+//achchiq
 shafqatsiz
 ta'sirchan
 achchiq
 og'riqsiz
-achchiq
-qobiliyatsiz
+//achchiq
+ojiz
 qobiliyatsiz
 sabrsiz
 shoshilinch
@@ -62,7 +62,7 @@ och
 och
 ochko'z
 och
-ochuvchi
+//ochuvchi
 ochiq
 ochiq
 ochiq
@@ -72,77 +72,77 @@ ochiq
 ochiq
 ochiq
 ochiq
-ochiq ko'ngilli; DUNYO qarashi keng
-konserva
+ochiq ko'ngilli
+pishiq
 Ochiq kulrang
 yorqin jigarrang
-ochiq yurak
+dili ochiq
 engil kashtan
 och qizil
-tushuntirish
-tushuntirish
+//tushuntirish
+//tushuntirish
 och ko'k
 och pushti
 irqiy
 och sariq
 aniq
-halol
+dangalchi
 och yashil
-silliqlanmagan
+//silliqlanmagan
 bag'ishlangan
 bag'ishlangan
 bag'ishlanish
-adolatsiz
-adolatsiz
-muskul
-mushaksiz
+bag'ishlanmagan
+unashtirilmagan
+baquvvat
+nimjon
 adolatsiz
 orollik
 erkakcha
 odamsiz
 ersiz
-moslashmoq
-noma'lum
-qadam
-Ism
-Ism
-adolatli
-sud
+moslashadigan
+notanish
+qadamli
+oddiy
+pastkash
+odil
+yuridik
 mashhur
-sud
-noma'lum
-anonim anonim
+huquqiy
+nomsiz
+benom
 aerodinamik
 aerologik
-afakiya
-ahmoq
-falokat
+oldi-qochdi
+dovdir
+ofat
 Afg'on
-afif
-bog'liq
-plakatga
+iffatli
+dimog'dorona
+e'lon qilingan
 quvib chiqarilgan
-qo'rqishadi tafra
-afyun
-afyun
-afyun
+dimog'dorlik bilan
+afyunli
+afyunli
+afyunli
 agnostik
 tajovuzkor
-katta aka
-daraxt
+bobo
+yog'och
+yog'ochli
 o'rmonli
-o'rmonli
-dendroid
-beparvo
+//dendroid
+yog'ochsiz
 oqartirilgan
 yopishqoq
 yopishqoq
-odatlanib qolgan
+//odatlanib qolgan
 og'ir
 og'ir
 og'ir
 og'ir
-umidsiz
+//umidsiz
 og'ir
 og'ir
 obro'li
@@ -162,142 +162,142 @@ og'ir
 og'ir
 og'ir
 og'ir
-meros
-og'ir ohang
-og'ir kasal
+//meros
+//og'ir ohang
+//og'ir kasal
 sust
 vaznli
 vaznli
 vaznli
 og'ir yaralangan
-og'iz
-og'iz
-og'iz
-og'iz
+//og'iz
+//og'iz
+//og'iz
+//og'iz
 og'zaki
-og'iz
+//og'iz
 og'izsiz
-tinch
-yig'lab
-yig'lab
-tarmoqqa ulangan
-agar siz og'riqli bo'lsangiz
-yara
+ovozsiz
+//yig'lab
+//yig'lab
+//tarmoqqa ulangan
+og'riq qoldiruvchi
+og'riqli
 og'riqsiz
 tinch
-retikulyatsiya qilingan
-ochiq og'iz
-bitta og'iz
-katta og'iz
-bo'sh og'iz
-havoda og'iz
-olomon og'iz
-qora og'iz
-qistirilgan og'iz
-qulflangan og'iz
-qulflangan og'iz
-quloqlarda og'iz
-qattiq lab
-iflos
-ahared
+//retikulyatsiya qilingan
+//ochiq og'iz
+hamjihat
+//katta og'iz
+//bo'sh og'iz
+//havoda og'iz
+//olomon og'iz
+//qora og'iz
+//qistirilgan og'iz
+//qulflangan og'iz
+//qulflangan og'iz
+xursand
+//qattiq lab
+//iflos
+//ahared
 do'stona
-ahd
-inharmonik
-Betashvish
-tinch
-azizim shohim
-oxirat
+kelishilgan
+ohangsiz
+uyg'unlashgan
+ohista
+//azizim shohim
+ohiratlik
 odatiy bo'lmagan
 ahloqiy
 axloqiy
 axloqsiz
 axloqsiz
-ahmoq
-yog'och
-ahu
-ahu ko'zli
-ahu parcha
-oila
+ahmoqona
+yog'ochdan qilingan
+ohu
+ohu ko'zli
+//ahu parcha
+oilalik
 oilasiz
-oila
-tegishli
+oilaviy
+oid
 provokator
-uyali
+nafis
 oq
 oq
 muammosiz
 akademik
 akademik
-akajou
-oqim
-tulpor
-tulpor
-chinor
-chinor pachy
-akçeli
-eskirgan
-O'rta dengiz
+//akajou
+oqar suv
+mo'ysafid
+kalxat
+//chinor
+//chinor pachy
+pulli
+//eskirgan
+//O'rta dengiz
 oq ko'zli
-ravon
-ravon
+oquvchan
+suyuq
 oqilona
-donolik tishi
-donolik tishi
+mantiqsiz
+aqlsiz
 aqli raso
 aqlga sig'maydigan
 aqlli
-oqilona
-o'zini yaxshi tutadigan aqlli
-aqliy
+tushunarli
+//o'zini yaxshi tutadigan aqlli
+//aqliy
 oqayotgan
 oqayotgan
 oqimsiz
 oqayotgan
 oqimsiz
-oqim bilan
+ahdlashilgan
 yomon niyat bilan
 o'spirin
-joriy
-noaniq
-shartnoma
+doimiy
+//noaniq
+akt
 aqliy
 aqli raso
-mukammal
+//mukammal
 aqlli
-aqli raso
-aqli raso
-aqli raso
-aqli raso fikrlash
+//aqli raso
+//aqli raso
+//aqli raso
+//aqli raso fikrlash
 akman
 ohangda
-ohangdan tashqari
-ohangdan tashqari
-oq pak
-oq pak
-akromatik
-akromatik
-oqsoqlanib
-oqsoqlanib
+//ohangdan tashqari
+//ohangdan tashqari
+//oq pak
+//oq pak
+//akromatik
+//akromatik
+oqsoq
+oqsoq
 yomon aksent
-qarama-qarshi
-bugun tunda
-oqshom
-albino
-bilvosita
+aksi
+tungi
+oqshomlik
+//albino
+//bilvosita
 transfersiz
 samarali
 faol
 aktinologik
-aktinium
-hozirgi kungacha
-aktuar
-akur
-akur
-olish
-olish
-ajoyib
-ajoyib
-ajoyib
+//aktinium
+ahamiyatli
+//aktuar
+//akur
+//akur
+qizil
+qizil
+rang-barang
+ola
+guldor
 cho'ktirish
 cho'ktirish
 alabros
