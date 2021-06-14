@@ -110,9 +110,6 @@ class WordNetTest(unittest.TestCase):
         self.assertIsNotNone(self.uzbek.getSynSetWithLiteral("bir kulağından girip öbür kulağından çıkmak", 1))
         self.assertIsNotNone(self.uzbek.getSynSetWithLiteral("anasından emdiği süt burnundan fitil fitil gelmek", 1))
         self.assertIsNotNone(self.uzbek.getSynSetWithLiteral("bir ayak üstünde kırk yalanın belini bükmek", 1))
-        # print(self.uzbek.getSynSetWithLiteral("bir ayak üstünde kırk yalanın belini bükmek", 1))
-        print(self.uzbek.getSynSetWithLiteral("ata", 1))
-        # print(self.uzbek.getSynSetWithLiteral("abakus", 2))
 
     def test_NumberOfSynSetsWithLiteral(self):
         self.assertEquals(1, self.uzbek.numberOfSynSetsWithLiteral("yolcu etmek"))
@@ -149,7 +146,6 @@ class WordNetTest(unittest.TestCase):
         self.assertEquals(44, self.uzbek.numberOfSynSetsWithLiteral("çekmek"))
         self.assertEquals(51, self.uzbek.numberOfSynSetsWithLiteral("tutmak"))
         self.assertEquals(59, self.uzbek.numberOfSynSetsWithLiteral("çıkmak"))
-        print(self.uzbek.numberOfSynSetsWithLiteral("ata"))
 
     def test_GetSynSetsWithPartOfSpeech(self):
         self.assertEquals(44074, len(self.uzbek.getSynSetsWithPartOfSpeech(Pos.NOUN)))
