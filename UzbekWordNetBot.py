@@ -28,14 +28,29 @@ def getRelationList(text):
     for synSet in uzbek.synSetList():
         my_text = ''
         found = False
+        print('---------------')
+        print(synSet.getId(), synSet.getSynonym().getLiteral(0))
         for i in range(synSet.relationSize()):
             relation = synSet.getRelation(i)
-            my_text += f'{i + 1}: {relation.getName()}; '
+            print(getSynonymsBySynSet(uzbek.getSynSetWithId(relation.getName())))
+            my_text += f'{i + 1}: {relation}; '
             if relation and text in relation.getName():
                 found = True
+        print(my_text)
         if found:
             return f'Relations: {my_text}'
     return 'Relations topilmadi.'
+
+
+def getSynonymsBySynSet(synSet):
+    if synSet is not None:
+        my_text = ''
+        for i in range(synSet.getSynonym().literalSize()):
+            literal = synSet.getSynonym().getLiteral(i)
+            my_text += f'{i + 1}: {literal.getName()}; '
+        return f'{synSet.getId()}: {my_text}'
+    else:
+        return 'Relation topilmadi.'
 
 
 def getAllMeanings(text):
@@ -64,5 +79,9 @@ def echo_message(message):
     if relation:
         bot.reply_to(message, relation)
 
+
+if __name__ == '__main__':
+    text = input()
+    print(getRelationList(text))
 
 bot.polling()
