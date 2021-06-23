@@ -6,7 +6,7 @@ API_TOKEN = '1858822529:AAH29byfrRRfj-UZJi5FUz25edVeP_Uhuv8'
 bot = telebot.TeleBot(API_TOKEN)
 uzbek: WordNet
 # uzbek = WordNet("wordnet_adj_uzb.xml")
-uzbek = WordNet("turkish_wordnet.xml")
+uzbek = WordNet("word_suv_relations.xml")
 
 
 def getSynonymList(text):
@@ -26,19 +26,12 @@ def getSynonymList(text):
 
 def getRelationList(text):
     for synSet in uzbek.synSetList():
-        my_text = ''
-        found = False
         print('---------------')
-        print(synSet.getId(), synSet.getSynonym().getLiteral(0))
+        if synSet.getSynonym().literalSize() != 0:
+            print(synSet.getId(), synSet.getSynonym().getLiteral(0))
         for i in range(synSet.relationSize()):
             relation = synSet.getRelation(i)
-            print(getSynonymsBySynSet(uzbek.getSynSetWithId(relation.getName())))
-            my_text += f'{i + 1}: {relation}; '
-            if relation and text in relation.getName():
-                found = True
-        print(my_text)
-        if found:
-            return f'Relations: {my_text}'
+            print(relation, getSynonymsBySynSet(uzbek.getSynSetWithId(relation.getName())))
     return 'Relations topilmadi.'
 
 
@@ -48,7 +41,7 @@ def getSynonymsBySynSet(synSet):
         for i in range(synSet.getSynonym().literalSize()):
             literal = synSet.getSynonym().getLiteral(i)
             my_text += f'{i + 1}: {literal.getName()}; '
-        return f'{synSet.getId()}: {my_text}'
+        return f' {my_text}'
     else:
         return 'Relation topilmadi.'
 
